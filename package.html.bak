@@ -66,7 +66,7 @@
 		
 		<div class="box-container" id="pack">
 				<div class="box">
-					<img src="img/himachal.jpg" alt="Manali" width="500px" height="500px">
+					<img src="img/Himachal.jpg" alt="Manali" width="500px" height="500px">
 					<div class="content">
 								<h3><i>Manali</i></h3>
 								<p>Adventure of Manali</p>
@@ -78,7 +78,7 @@
 				</div>
 			
 			<div class="box">
-					<img src="img/goa.jpg" alt="" width="500px" height="500px">
+					<img src="img/Goa.jpg" alt="" width="500px" height="500px">
 					<div class="content">
 									<h3><i>Goa</i></h3>
 									<p>Goa</p>
