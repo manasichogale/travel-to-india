@@ -296,7 +296,7 @@ object-fit:cover;
 }
 
 .package .box-container .box img:hover{
-height:500px;
+height:400px;
 width:100%;	
 cursor:pointer;
 }
